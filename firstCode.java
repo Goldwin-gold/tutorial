@@ -8,5 +8,6 @@ class firstCode{
         System.out.println("Your name "+name);
         System.out.println("Done for today?");
         System.out.println("Done!!");
+        System.out.println("small change");
     }
 }
