@@ -6,5 +6,6 @@ class firstCode{
         System.out.println("Enter your name");
         String name=sc.nextLine();
         System.out.println("Your name "+name);
+        System.out.println("Done for today?");
     }
 }
